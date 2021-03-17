@@ -1,7 +1,7 @@
 flows:
   20a494a0-a34a-4c72-a25e-c7e16a5edd86: {ver: 1, file: flow2.snapshot, comments: flow2,
     author: anonymous, created: 1615959040659, flowName: flow2, flowDesc: flow2}
-  0da1fd2c-1a95-4e4b-b9dc-98f9184af6c8: {ver: 1, file: flow1.snapshot, comments: flow1,
-    author: anonymous, created: 1615958919815, flowName: flow1, flowDesc: flow1}
+  0da1fd2c-1a95-4e4b-b9dc-98f9184af6c8: {ver: 2, file: flow1.snapshot, comments: flow2,
+    author: anonymous, created: 1615959103686, flowName: flow1, flowDesc: flow1}
 layoutVer: 1
 bucketId: afbe1f1a-f7a7-45e3-abe7-9328d847b3dd
