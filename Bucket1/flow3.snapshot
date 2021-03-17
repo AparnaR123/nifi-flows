@@ -166,54 +166,6 @@
           "type" : "org.apache.nifi.processors.standard.GetFile",
           "yieldDuration" : "1 sec"
         }, {
-          "autoTerminatedRelationships" : [ ],
-          "bulletinLevel" : "WARN",
-          "bundle" : {
-            "artifact" : "nifi-stateful-analysis-nar",
-            "group" : "org.apache.nifi",
-            "version" : "1.13.0"
-          },
-          "comments" : "",
-          "componentType" : "PROCESSOR",
-          "concurrentlySchedulableTaskCount" : 1,
-          "executionNode" : "ALL",
-          "groupIdentifier" : "0ddcb208-0764-3108-bd33-576e3335598c",
-          "identifier" : "ae0d7cbc-b42b-30f3-85a1-fd938b30647e",
-          "name" : "AttributeRollingWindow",
-          "penaltyDuration" : "30 sec",
-          "position" : {
-            "x" : 1011.0,
-            "y" : 157.0
-          },
-          "properties" : { },
-          "propertyDescriptors" : {
-            "Value to track" : {
-              "displayName" : "Value to track",
-              "identifiesControllerService" : false,
-              "name" : "Value to track",
-              "sensitive" : false
-            },
-            "Time window" : {
-              "displayName" : "Time window",
-              "identifiesControllerService" : false,
-              "name" : "Time window",
-              "sensitive" : false
-            },
-            "Sub-window length" : {
-              "displayName" : "Sub-window length",
-              "identifiesControllerService" : false,
-              "name" : "Sub-window length",
-              "sensitive" : false
-            }
-          },
-          "runDurationMillis" : 0,
-          "scheduledState" : "ENABLED",
-          "schedulingPeriod" : "0 sec",
-          "schedulingStrategy" : "TIMER_DRIVEN",
-          "style" : { },
-          "type" : "org.apache.nifi.processors.stateful.analysis.AttributeRollingWindow",
-          "yieldDuration" : "1 sec"
-        }, {
           "autoTerminatedRelationships" : [ "success", "failure" ],
           "bulletinLevel" : "WARN",
           "bundle" : {
