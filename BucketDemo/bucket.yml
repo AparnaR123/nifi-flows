@@ -1,6 +1,6 @@
 flows:
-  ab1778f6-f67b-42ac-8b1f-24298fac193e: {ver: 2, file: flow2.snapshot, comments: flow3,
-    author: anonymous, created: 1615959842668, flowName: flow2, flowDesc: flow2}
+  ab1778f6-f67b-42ac-8b1f-24298fac193e: {ver: 3, file: flow2.snapshot, comments: flow4,
+    author: anonymous, created: 1615960113168, flowName: flow2, flowDesc: flow2}
   bbb9d6b1-afcd-43d0-807d-2b7624939bde: {ver: 2, file: flow1.snapshot, comments: flow3,
     author: anonymous, created: 1615959824630, flowName: flow1, flowDesc: flow1}
 layoutVer: 1
